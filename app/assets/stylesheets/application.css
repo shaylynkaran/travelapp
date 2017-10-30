@@ -13,6 +13,7 @@
  *= require_tree .
  *= require_self
  */
+@import url(https://fonts.googleapis.com/css?family=Abel:400,700);
 html {
 	font-family: 'Abel', sans-serif;
 }

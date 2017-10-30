@@ -1,0 +1,47 @@
+.nav { background-color: white;}
+body {
+  width: 100%;
+  margin: 0 auto;
+  /* background-color: #FF2A2A; */
+  color: #707074;
+}
+div {
+  background-color: #F2F2F2;
+  padding: 10px 30px 30px;
+  margin: 50px;
+}
+h1 {
+  color: #707074;
+  text-align: center;
+  text-transform: uppercase;
+  font-weight: lighter;
+  margin-top: 40px;
+}
+h2 {
+  color: #A9A9A9;
+  margin: 15px 0 -9px;
+}
+#content {
+  width: 170px;
+  margin: 0 auto;
+}
+#content button {
+  background-color: #03A498;
+  border: none;
+  width: 150px;
+  height: 50px;
+  margin: 10px;
+  font-size: 17px;
+  text-transform: uppercase;
+  color: #F0F7F7;
+  font-weight: bold;
+}
+#content button:hover {
+  background-color: #FF3B3F;
+}
+/* #images {
+  background-color: #FF2A2A;
+}
+#forecast {
+  background-color: #FF2A2A;
+} */

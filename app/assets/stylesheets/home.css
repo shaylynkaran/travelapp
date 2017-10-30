@@ -1,0 +1,30 @@
+html {
+	background-color: white;
+}
+
+ul {
+	width: 100%;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: inline-block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+li a:hover {
+    background-color: #FF3B3F;
+}
+
+li a:visited {
+  color: #333745;
+}
